@@ -62,6 +62,11 @@ To develop the task delivery for this seminar you have to:
 - install in your labtop:
   - Visual Studio Code: https://code.visualstudio.com/Download
   - git: https://git-scm.com/install/
+  - python 3.11 version
+  - in VScode terminal install robodk library:
+    ````python
+    python -m pip install robodk
+    ````
 - Emulate what you have made in Seminar lab session:
   - Execute `3D_Orientation.rdk` program to visualize a 3D object orientation in a virtual environment
   - Execute the python program `Send_data_Endo_world_sim_sliders.py` to emulate the `Endo module` you have used in Seminar lab session
