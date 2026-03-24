@@ -8,6 +8,8 @@ The objectives of this section are:
 You will be organized in 4 groups. Each group has a director and 2 collaborators
 
 ## **1. Setup the project**
+hola
+
 
 To work on this seminar you have to:
 - Create a github account: https://github.com/
