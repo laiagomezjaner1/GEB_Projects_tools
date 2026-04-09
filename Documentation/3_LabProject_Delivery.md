@@ -20,3 +20,13 @@ To ensure the accuracy of the Roll, Pitch, and Yaw (RPY) angles after our initia
 3) **What you have to change in the python code when changing the plane to the needle?**
 
 To change the 3D orientation tracking from the plane to the surgical_needle, we had to modify the Python script. We located the object_NAME variable within the Receive_data_RPY_IMU_world.py script and updated its string value from "plane" to "surgical_needle". 
+
+## 3. Conclusions
+
+This lab practice allowed us to obtain a new understanding on how to turn physical movement or stimuli (such us as the light turning on and off) into the digital world. 
+
+1) **Key Learnings:** We gained experience in using ESP32 microcontrollers, managing library dependencies in PlatformIO (such as the IMU_Robotics_UB library), and using Python as a connector of hardware with simulation software.
+
+2) **Project Applications:** These tools are highly relevant for our upcoming avant-projecte and TFG (Final Degree Project). The ability to create a "Digital Twin" of a medical instrument, allows for safer testing and better development of robotic procedures. It was especially interesting in our case, given that for our project we are planning on using ESP3 microconrollers, so gaining experience on how it works was a key point for us.
+
+3) **Engineering point of view:** In future engineering projects, the workflow used in this practice (Git for collaboration, PlatformIO for firmware, and RoboDK for visualization) can be applied to any field requiring real-time motion tracking, such as prosthetics, industrial automation, or human-machine interfaces.
