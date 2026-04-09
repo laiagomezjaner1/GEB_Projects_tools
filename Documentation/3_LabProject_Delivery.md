@@ -9,6 +9,7 @@ Finally, we linked everything together. We opened the 3D model in RoboDK and ran
 ## 2. Session questions
 
 1) **Is the plane 3D object in roboDK moving properly?**
+
 Initially, the plane 3D object in RoboDK did not move correctly. While the communication bridge was established, the orientation was misaligned with the physical movements of the Endo-module. To fix this, we had to manually adjust the reference axes within the software to ensure that the sensor's coordinate system matched. Once the axes were properly aligned, the real-time synchronization worked as expected.
 ![question1]("C:\Users\laiag\Pictures\Screenshots\Captura de pantalla 2026-04-09 094225.png")
 
