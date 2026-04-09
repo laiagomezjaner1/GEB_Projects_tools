@@ -23,7 +23,7 @@ To change the 3D orientation tracking from the plane to the surgical_needle, we 
 
 ## 3. Conclusions
 
-This lab practice allowed us to obtain a new understanding on how to turn physical movement or stimuli (such us as the light turning on and off) into the digital world. 
+This lab practice allowed us to obtain a new understanding on how to turn physical movement or stimuli (such us as the light turning on and off) into the digital world and vice versa. 
 
 1) **Key Learnings:** We gained experience in using ESP32 microcontrollers, managing library dependencies in PlatformIO (such as the IMU_Robotics_UB library), and using Python as a connector of hardware with simulation software.
 
